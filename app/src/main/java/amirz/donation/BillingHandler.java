@@ -1,4 +1,4 @@
-package amirz.donation;
+package com.atifali.donation;
 
 import android.app.Activity;
 import android.support.annotation.Nullable;

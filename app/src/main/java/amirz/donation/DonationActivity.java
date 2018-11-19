@@ -1,4 +1,4 @@
-package amirz.donation;
+package com.atifali.donation;
 
 import android.content.Intent;
 import android.net.Uri;
