@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Donate</string>
+    <string name="story">
+        "Welcome to my donation application."
+
+        "\n\nMy name is Amir Zaidi and I am a student at Delft, University of Technology, in the Netherlands."
+        "I hope you have been enjoying the Android applications I have made."
+        "Everything I do is open source so others can continue my work, and make even better apps."
+        "All of this is free for both developers and users."
+
+        "\n\nProgramming has always been a hobby of me, ever since primary school."
+        "Throughout the years I have learned many different skills."
+        "I started on websites, then moved to Windows applications, and am now doing Android development."
+
+        "\n\nHere is a list of my Android-related projects"
+        "\n- Rootless Pixel Launcher"
+        "\n- Rootless Pixel Bridge"
+        "\n- Google Icons"
+        "\n- Material FX"
+        "\n- Adaptive Stune"
+        "\n- Dynamica Live Wallpaper"
+        "\n- DNG Processor"
+        "\n- Night Camera"
+        "\n- Ozone Essentials"
+        "\n- Audio Streamer"
+        "\n- Assist Mapper"
+
+        "\n\nNow I, as everyone else, have only a limited amount of time."
+        "This year has been a very busy year as I was a freshman at university."
+        "Still, I feel like there aren't enough open source developments and want to push other developers to adopt the model too, so I keep going."
+        "You can support me and my journey by donating with the orange button above."
+        "Those who do not have Play Services installed have the option of using PayPal: https://paypal.me/amirzaidi."
+        "Every gift will be remembered, and put to use for updates and new applications in the future."
+
+        "\n\nIf you wish to contact me, it is very easy to reach me outside of school hours."
+        "Click on the three dots in the top right corner of the screen."
+        "There you can select either Telegram or E-mail as the means to reach me."
+        "I do not read my e-mails often, so if you have something urgent I recommend using Telegram."
+
+        "\n\nThanks for reading my story!"
+        "\nAmir Zaidi"
+    </string>
+
+    <string name="action_telegram">Telegram</string>
+    <string name="action_mail">E-Mail</string>
+
+    <string name="donate_title">Support me</string>
+    <string name="donate_desc">Here you can send me a donation if you want to.</string>
+    <string name="donate_new">Thank you for your support! &lt;3</string>
+    <string name="donate_history">Thank you for your support!</string>
+</resources>
